@@ -1,0 +1,6 @@
+title: Civics Bot
+description: Terms of Service, Privacy Policy, and Command Reference
+theme: null
+markdown: kramdown
+kramdown:
+  input: GFM
